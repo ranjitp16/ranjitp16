@@ -1,6 +1,3 @@
-# ranjitp16.github.io
-portfolio repo
-
 # नमस्ते 👋. I'm Ranjit  
 
 🚀 **Tech Enthusiast | Problem Solver | Builder of Smart Systems**
