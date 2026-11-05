@@ -1,4 +1,4 @@
-# नमस्ते 👋. I'm Ranjit  
+# 👋. I'm Ranjit  
 
 🚀 **Tech Enthusiast | Problem Solver | Builder of Smart Systems**
 
@@ -35,5 +35,3 @@ I thrive on **curiosity**, **experimentation**, and the joy of building somethin
 ---
 
 > "The best solutions often start with a simple question: _What if?_"
-
-> "अक्सर सबसे अच्छे समाधान एक साधारण सवाल से शुरू होते हैं: _क्या होगा अगर?_"
